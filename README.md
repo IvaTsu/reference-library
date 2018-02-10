@@ -16,3 +16,7 @@ The a11y resourses:
 - [Web Aim Checklist](http://webaim.org/standards/wcag/checklist)
 - [process.st](https://app.process.st/checklists/kTJpyKFmvDtt4NC2FxJCqw/tasks/umB4ntIHhiKZfbI-lstD-g)
   - This site is the collection of the web stuff. It could be a starting point and adding the a11y stuff to the website.
+
+Find the job:
+- [UpWork](https://www.upwork.com/)
+- [Talent](https://www.talent.io/)
