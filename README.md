@@ -22,3 +22,4 @@ Find the job:
 - [Talent](https://www.talent.io/)
 
 https://frontendchecklist.io/
+https://make.wordpress.org/accessibility/handbook/best-practices/markup/aria-landmarks/#good-example-of-html5-sectional-elements
