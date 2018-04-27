@@ -23,3 +23,6 @@ Find the job:
 
 https://frontendchecklist.io/
 https://make.wordpress.org/accessibility/handbook/best-practices/markup/aria-landmarks/#good-example-of-html5-sectional-elements
+
+# React Navigation Slides
+https://docs.google.com/presentation/d/1NueI5-WnkP8ssGq7VpKEIa6g6QkDULChT7uHaXJ9Tw0/edit#slide=id.g1d87d8784b_0_103
