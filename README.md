@@ -26,3 +26,6 @@ https://make.wordpress.org/accessibility/handbook/best-practices/markup/aria-lan
 
 # React Navigation Slides
 https://docs.google.com/presentation/d/1NueI5-WnkP8ssGq7VpKEIa6g6QkDULChT7uHaXJ9Tw0/edit#slide=id.g1d87d8784b_0_103
+
+### JS Theory
+- [Object Creaction in JS](https://tylermcginnis.com/object-creation-in-javascript-functional-instantiation-vs-prototypal-instantiation-vs-pseudo-e9287b6bbb32/)
